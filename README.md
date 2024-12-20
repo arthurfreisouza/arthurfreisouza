@@ -54,7 +54,9 @@ I am proficient in **English (Advanced)**. Here’s a symbol that represents my 
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg =30x30)](https://www.linkedin.com/in/arthur-reis)
+<a href="https://www.linkedin.com/in/arthur-reis">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
+</a>
 
 ---
 
