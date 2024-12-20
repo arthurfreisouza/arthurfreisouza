@@ -46,15 +46,16 @@ I am proficient in the following programming languages and tools:
 ---
 
 ### 🗣️ English Proficiency
-I am proficient in **English (Advanced)**. Here’s a symbol that represents my level:
+I am proficient in **English (Advanced)**. Here’s a badge that represents my level:
 
-![English Level](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png)
+![English Level](https://img.shields.io/badge/English-Advanced-green)
+
 
 ---
 
 ### 🔗 Connect with me
 
-<a href="https://www.linkedin.com/in/arthur-reis">
+<a href="https://www.linkedin.com/in/arthur-reis-0b64b8241/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
 </a>
 
